@@ -28,12 +28,6 @@ Botão de login padrão
 
 Botão alternativo para login com Google
 
-## Estrutura do projeto
-formulario-login-bootstrap/
-│
-├── index.html
-└── style.css
-
 ## Objetivo
 
 Projeto desenvolvido para aprendizado e prática do framework Bootstrap, reforçando conceitos como:
